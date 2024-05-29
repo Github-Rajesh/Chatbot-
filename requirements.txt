@@ -1,0 +1,7 @@
+langchain
+flask
+pypdf
+chromadb
+openai
+google-api-python-client
+tiktoken
