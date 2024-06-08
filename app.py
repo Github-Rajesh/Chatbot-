@@ -92,7 +92,7 @@ def ask_question():
 if __name__ == "__main__":
     openai_api_key = 'api key'
     youtube_api_key = 'api key'
-    pdf_paths = ["0004-24ESE11.pdf", "0099-24ES.pdf", "0100-24JSH.pdf"]
+    pdf_paths = [#path to your pdf files]
 
     chatbot = Chatbot(openai_api_key, youtube_api_key, pdf_paths)
 
